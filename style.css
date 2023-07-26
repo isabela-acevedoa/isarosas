@@ -1,0 +1,13 @@
+body {
+  background-color: pink;
+}
+h1 {
+  text-align: center;
+}
+canvas {
+  background-color: rgb(70, 60, 60);
+  position: relative;
+  top: 200px;
+  left: 400px;
+  border: 20px solid white;
+}
